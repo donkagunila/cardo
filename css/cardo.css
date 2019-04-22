@@ -1,4 +1,17 @@
- .mt-20{
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Lato', sans-serif;
+}
+
+
+
+article{
+	padding-top: 60px;
+}
+
+.mt-20{
  	margin-top: 20px;
  }
 
